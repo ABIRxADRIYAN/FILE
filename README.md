@@ -19,8 +19,8 @@ rm -rf FILE
 
 git clone --depth=1 https://github.com/ABIRxADRIYAN/FILE.git
 
-git pull
-
 cd FILE
+
+git pull
 
 python FILE.py
