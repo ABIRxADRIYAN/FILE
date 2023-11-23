@@ -15,11 +15,11 @@ pkg install git
 
 pip install rich
 
-rm -rf FILE
+rm -rf FILE-CLONE
 
-git clone --depth=1 https://github.com/ABIRxADRIYAN/FILE.git
+git clone --depth=1 https://github.com/ABIRxADRIYAN/FILE-CLONE.git
 
-cd FILE
+cd FILE-CLONE
 
 git pull
 
