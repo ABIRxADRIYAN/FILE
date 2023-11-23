@@ -16,13 +16,13 @@ def Run():
             S1("\x1b[1;92m[●] Congratulations ! Your Device Support this Tools 🔥💥")
             S1('\x1b[1;94m[●] Follow My Page 👻')
             os.system('xdg-open https://www.facebook.com/matal.tools')
-            from old import welcome
+            from abir404 import welcome
             welcome()
         elif bit == '32bit':
             S1("\n\x1b[1;92m[●] Congratulations ! Your Device Support this Tools 💥🔥")
             S1('\x1b[1;94m[●] Follow My Page 👻')
             os.system('xdg-open https://www.facebook.com/matal.tools')
-            from old import welcome
+            from abir404 import welcome
             welcome()
         else:
             exit('\033[1;31m[●] Connection & Network Error ❌')
