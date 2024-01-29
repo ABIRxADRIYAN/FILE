@@ -15,12 +15,12 @@ pkg install git
 
 pip install rich
 
-rm -rf FILE-CLONE
+rm -rf SPIDER
 
-git clone --depth=1 https://github.com/ABIRxADRIYAN/FILE-CLONE.git
+git clone https://github.com/ABIRxADRIYAN/SPIDER.git
 
-cd FILE-CLONE
+cd SPIDER
 
 git pull
 
-python FILE.py
+python SPIDER.py
