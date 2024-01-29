@@ -3,5 +3,4 @@
            #DEVELOPRR : MH ABIR
            #BROTHER   : ADRIYAN CHOWDHURY 
 #=================================================
-
-             import SPIDER
+import SPIDER
