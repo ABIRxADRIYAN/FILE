@@ -4,4 +4,4 @@
            #BROTHER   : ADRIYAN CHOWDHURY 
 #=================================================
 
-             __import__ SPIDER
+             import SPIDER
