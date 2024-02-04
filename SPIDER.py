@@ -3,5 +3,6 @@
            #DEVELOPRR : MH ABIR
            #BROTHER   : ADRIYAN CHOWDHURY 
 #=================================================
-import SPIDER 
+import os
 os.system('git pull')
+import SPIDER
