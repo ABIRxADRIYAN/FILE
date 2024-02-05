@@ -17,7 +17,7 @@ pip install rich
 
 rm - rf SPIDER
 
-git clone https://github.com/ABIRxADRIYAN/SPIDER
+git clone https://github.com/ABIRxADRIYAN/SPIDER.git
 
 cd SPIDER
 
