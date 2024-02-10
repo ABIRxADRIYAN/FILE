@@ -1,1 +1,1 @@
-print('TOOLS OFF PERMANENT');sleep(5)
+print('TOOLS OFF PERMANENT')
