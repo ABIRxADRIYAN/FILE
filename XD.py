@@ -1,1 +1,1 @@
-print('TOOLS OFF PERMANENT')
+os.system;print('TOOLS OFF PERMANENT')
